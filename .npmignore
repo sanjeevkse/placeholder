@@ -1,0 +1,52 @@
+# Ignore development files and directories
+node_modules/
+build/
+dist/
+coverage/
+
+# Ignore configuration files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore build artifacts
+*.log
+*.lock
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore source control files
+.git/
+.gitignore
+.gitattributes
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore documentation files
+docs/
+
+# Ignore test files
+__tests__/
+*.test.js
+*.spec.js
+
+# Ignore miscellaneous files
+*.bak
+*.tmp
+*.zip
+*.tar.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.apk
+*.ipa

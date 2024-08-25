@@ -6,7 +6,8 @@
     "test": "npm run test:unit",
     "test:unit": "jest",
     "test:unit:watch": "jest --watch",
-    "test:unit:coverage": "jest --coverage"
+    "test:unit:coverage": "jest --coverage",
+    "build": "tsc"
   },
   "author": "Sanjeev Shetty <sanjeevkse@gmail.com>",
   "license": "MIT",
@@ -25,5 +26,9 @@
     "jest-environment-jsdom": "29.7.0",
     "ts-jest": "29.2.5",
     "typescript": "5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjeevkse/placeholder.git"
   }
 }
