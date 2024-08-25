@@ -30,5 +30,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sanjeevkse/placeholder.git"
-  }
+  },
+  "keywords": [
+    "react",
+    "placeholder",
+    "light-placeholder",
+    "dummy-image",
+    "dummy",
+    "image placeholder"
+  ]
 }
