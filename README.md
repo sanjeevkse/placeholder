@@ -1,4 +1,4 @@
-# Placeholder Component
+# Light Placeholder Component
 
 This is a React component that renders a placeholder image with customizable dimensions and text.
 
@@ -7,7 +7,7 @@ This is a React component that renders a placeholder image with customizable dim
 To use this component in your React project, you can install it via npm:
 
 ```bash
-npm install placeholder-component
+npm install light-placeholder
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Import the `Placeholder` component and use it in your code:
 
 ```jsx
 import React from "react";
-import Placeholder from "placeholder-component";
+import Placeholder from "light-placeholder";
 
 const App = () => {
   return (
